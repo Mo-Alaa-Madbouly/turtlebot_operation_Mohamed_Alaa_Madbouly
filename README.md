@@ -60,6 +60,3 @@ source install/setup.bash
 - On a valid service call: response `success: True` and a `MANUAL OVERRIDE -> <direction>` log line.
 - On an invalid service call: response `success: False` with a message listing the accepted directions.
 
-## 5. Demo
-
-_Add a link or embedded video/GIF here showing the robot moving in simulation alongside the terminal output of the running node._
