@@ -1,0 +1,7 @@
+# Request: the direction command the operator wants to force
+# Only these 4 strings are accepted: "forward", "reverse", "left", "right"
+string direction
+---
+# Response
+bool success
+string message
